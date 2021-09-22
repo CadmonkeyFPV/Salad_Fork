@@ -10,5 +10,6 @@ Independent work on the Salad Fork concept as I prototype my own based on the in
 * Extended MGN9 rail to 190mm & cut recesses into XY joints for joints to act as full stoppers
 ## ToDo
 * Revise extrusion profiles to MakerBeam (that's what I've ordered)
-* Tweak 
+* Extend extrusions 30mm each for my 150mm<sup>2</sup> build size
+* Tweak STLs to fit MakerBeam profiles
 * More as I progress on my proto build for sure
