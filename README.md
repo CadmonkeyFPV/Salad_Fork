@@ -1,5 +1,5 @@
 # Salad Fork Fork
-Independent work on the Salad Fork concept
+Independent work on the Salad Fork concept as I prototype my own based on the in-process work of Yeri
 * Gantry Isolated
 * B Idler Created
 * Imported Micron X Axis
@@ -9,4 +9,5 @@ Independent work on the Salad Fork concept
 * Added SaladFork Logo to Toolhead & Idlers
 ## ToDo
 * Revise extrusion profiles to MakerBeam (that's what I've ordered)
-* More as I progress for sure
+* Tweak 
+* More as I progress on my proto build for sure
