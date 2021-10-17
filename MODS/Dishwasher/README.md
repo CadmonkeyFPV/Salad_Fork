@@ -16,5 +16,6 @@ Spacing based on Mini-Afterburner with Dragon Hotend
 - (6) 6x3 Magnets
 - (1) Brass Mini-Brush (cut head off)
 
+Brush overall height (head & bristles) should be roughly 15mm
 
 Assembly is straightforward.
