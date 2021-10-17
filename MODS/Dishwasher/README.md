@@ -1,6 +1,7 @@
 # The "Dishwasher" Nozzle Scrubber and Purge Bucket
 
 Nozzle scrubber and purge bucket designed for the Salad Fork project.
+
 Bolts to underside of rear 1515 extrusion, adjacent to A Drive
 
 ![The Dishwasher](/MODS/Dishwasher/Dishwasher_Model.png)
