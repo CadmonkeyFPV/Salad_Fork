@@ -1,4 +1,4 @@
 # Salad Fork Fork
 
-Mods & Perosnal Model for Yeriwyn's Salad Fork Project
+Mods & Personal Model for Yeriwyn's Salad Fork Project
 
