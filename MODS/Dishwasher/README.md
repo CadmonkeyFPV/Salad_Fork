@@ -4,6 +4,8 @@ Nozzle scrubber and purge bucket designed for the Salad Fork project.
 
 Bolts to underside of rear 1515 extrusion, adjacent to A Drive
 
+Spacing based on Mini-Afterburner with Dragon Hotend
+
 ![The Dishwasher](/MODS/Dishwasher/Dishwasher_Model.png)
 ![Installed](/MODS/Dishwasher/Dishwasher_Installed.jpg)
 
