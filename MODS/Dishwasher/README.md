@@ -8,8 +8,12 @@ Bolts to underside of rear 1515 extrusion, adjacent to A Drive
 ![Installed](/MODS/Dishwasher/Dishwasher_Installed.jpg)
 
 ## BOM
+
 (2) M3x10 SHCS
+
 (2) M3 Hexnuts
+
 (6) 6x3 Magnets
+
 
 Assembly is rather straightforward.
