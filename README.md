@@ -7,3 +7,5 @@ Mods & Personal 150mm<sup>2</sup> Model for Yeriwyn's Salad Fork Project
 [CAD Model](/CAD/Salad_Fork_CADMonkeyFPV%20v1.f3d)
 
 [MODS](/MODS)
+
+[My config files](/config/CADMonkey's%20Config)
