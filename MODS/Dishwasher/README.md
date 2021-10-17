@@ -9,11 +9,10 @@ Bolts to underside of rear 1515 extrusion, adjacent to A Drive
 
 ## BOM
 
-(2) M3x10 SHCS
+- (2) M3x10 SHCS
+- (2) M3 Hexnuts
+- (6) 6x3 Magnets
+- (1) Brass Mini-Brush (cut head off)
 
-(2) M3 Hexnuts
 
-(6) 6x3 Magnets
-
-
-Assembly is rather straightforward.
+Assembly is straightforward.
