@@ -1,6 +1,6 @@
 # Salad Fork Fork
 
-Mods & Personal Model for Yeriwyn's Salad Fork Project
+Mods & Personal 150mm<sup>2</sup> Model for Yeriwyn's Salad Fork Project
 
 ![Salad Fork](/Images/Salad_Fork_CADMonkeyFPV.png)
 
