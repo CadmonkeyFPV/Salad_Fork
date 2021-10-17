@@ -7,7 +7,7 @@ Bolts to underside of rear 1515 extrusion, adjacent to A Drive
 Spacing based on Mini-Afterburner with Dragon Hotend
 
 ![The Dishwasher](/MODS/Dishwasher/Dishwasher_Model.png)
-![Installed](/MODS/Dishwasher/Dishwasher_Installed.jpg)
+![Installed](/MODS/Dishwasher/Dishwasher_Installed2.jpg)
 
 ## BOM
 
