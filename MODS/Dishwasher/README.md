@@ -19,3 +19,5 @@ Spacing based on Mini-Afterburner with Dragon Hotend
 Brush overall height (head & bristles) should be roughly 15mm
 
 Assembly is straightforward.
+
+20211023 - Additional STL for +8mm drop on the mount to accomodate longer bristles of Home Depot brushes
