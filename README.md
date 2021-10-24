@@ -2,7 +2,7 @@
 
 Mods & Personal 150mm<sup>2</sup> Model for Yeriwyn's Salad Fork Project
 
-![Salad Fork](/Images/Salad_Fork_CADMonkeyFPV.png)
+![Salad Fork](/Images/SF_Assy_20190919_v21.png)
 
 [MODS](/MODS)
 
