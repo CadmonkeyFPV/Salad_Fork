@@ -26,6 +26,7 @@ This only supports the Dragon Hot End at this time
 - (2) M3x10 BHCS Blower Anchors (optional?)
 - (2) M3x10 BHCS Orbiter Mount
 - (2) M3x6 PCB Anchors
+- (4) M2.5x?? The Dragon Screws for a v0
 - Zip Ties to keep it neat
 
 Assembly Tips:
