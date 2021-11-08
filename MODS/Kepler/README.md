@@ -2,7 +2,7 @@
 
 Derived from the Micron and Mini-Afterburner Tool Heads
 
-![Kepler](/Kepler_v10.png)
+![Kepler](Kepler_v10.png)
 
 #Use at your own risk - this is still a work in progress.
 
