@@ -31,12 +31,12 @@ Corner Clip Bowden support mounts replaces the top panel corner mount and suppor
 - (1) M3 Hex Nut
 - (1) M3 Short Heat Set Insert (Voron Standard)
 
-## OPTIONAL BOM - Bowden BPST - Secures Bowden tube where it passes through rear panel into the print cavity
+### OPTIONAL BOM - Bowden BPST - Secures Bowden tube where it passes through rear panel into the print cavity
 
 - (1) Pass through Bowden BPST fitting
 
-## OPTIONAL BOM - Turntable Standalone - For use on other printers (I'm using on a V2.4)
+### OPTIONAL BOM - Turntable Standalone - For use on other printers (I'm using on a V2.4)
 
 - (3) M3 BHCS - Length appropriate for panel thickness
 
-### Coming Soon - "Top Hat" style 1515 extrusion based cover for Salad Forks
+#### Coming Soon - "Top Hat" style 1515 extrusion based cover for Salad Forks
