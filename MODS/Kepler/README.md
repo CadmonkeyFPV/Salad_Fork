@@ -2,9 +2,9 @@
 
 Derived from the Micron and Mini-Afterburner Tool Heads
 
-![Kepler](/Kepler_v10.png)
+![Kepler](Kepler_v10.png)
 
-#Use at your own risk - this is still a work in progress.
+# Use at your own risk - this is still a work in progress.
 
 I'm running this on a Salad Fork build. Better overhang results and extrusion consistency so far as compared to the Micron toolhead.
 
@@ -26,6 +26,7 @@ This only supports the Dragon Hot End at this time
 - (2) M3x10 BHCS Blower Anchors (optional?)
 - (2) M3x10 BHCS Orbiter Mount
 - (2) M3x6 PCB Anchors
+- (4) M2.5x?? The Dragon Screws for a v0
 - Zip Ties to keep it neat
 
 Assembly Tips:
