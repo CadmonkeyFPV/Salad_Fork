@@ -39,4 +39,4 @@ Corner Clip Bowden support mounts replaces the top panel corner mount and suppor
 
 - (3) M3 BHCS - Length appropriate for panel thickness
 
-# Coming Soon - "Top Hat" style 1515 extrusion based cover for Salad Forks
+### Coming Soon - "Top Hat" style 1515 extrusion based cover for Salad Forks
