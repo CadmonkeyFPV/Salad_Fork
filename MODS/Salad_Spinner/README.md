@@ -1,12 +1,12 @@
 # The Salad Spinner Spool Holder
 
+![The Salad Spinner](/MODS/Salad_Spinner/Photos/Spinner_01_Banner.jpg)
+
 Horizontal Spool Holder designed for the Salad Fork project but adaptable to many other printers.
 
 Intended to mount to top panel of printer. Stand alone turntable for use on other platforms.
 
-Threaded clamps for 1kg and 5 pound spools (5 pound version has only been tested on KVP 5 pound spool at this time)
-
-Photos to come after Christmas.
+Threaded clamps for 1kg and 5 pound spools (5 pound version has only been tested on KVP 5 pound spool at this time) and a clamp for thinner spools (0.25 kg SainSmart TPU for example)
 
 Turntable gets mounted to top panel of printer. Rectangular boss achors to rear of printer and riser couples that to extrusion using M3x12 BHCS and preloaded hex nut. Adjust riser Z dimension in slicer to accomodate different panel and foam combinations, STL as provided works with 3mm panel, 6mm foam compressed to 5mm. The front ear on the turntable requires the top panel to be drilled to accept an M3, and the Bowden guide (with heat set installed) mounts to the interior of the printer on this bolt. Guide loosely secures the Bowden mid span. You will need to experiment with overall bowden length to determine was works best for your toolhead and other accessories/mods. I have enough Bowden to extend 4" past the front panel when stretched out, which coils down to the Orbiter I am running.
 
